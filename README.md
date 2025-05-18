@@ -3,7 +3,7 @@ This project is about Check-In system with OpenCV and Raspberry 4
 
 # 🔐 Facial Recognition Check-In System with LED Door Simulation
 
-This project uses **face recognition** to simulate a **door opening/closing mechanism** using an **LED** on a Raspberry Pi. Once a face is successfully recognized from the dataset, the system will activate a GPIO pin to turn on the LED—mimicking a successful check-in and door access.
+This project uses **face recognition** to simulate a **door opening/closing mechanism** using an **LED** on a Raspberry Pi 4. Once a face is successfully recognized from the dataset, the system will activate a GPIO pin to turn on the LED—mimicking a successful check-in and door access.
 
 ---
 
