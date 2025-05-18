@@ -122,12 +122,12 @@ Now you can run the application directly from the **menu** without using the ter
 
 ```
 Raspberry Pi (Pin 8 - GPIO 14) ---> [Anode LED]
-                                     |
-                                 [Cathode LED]
-                                     |
-                              [220Ω Resistor]
-                                     |
-Raspberry Pi (Pin 14 - GND) -------->|
+                                         |
+                                   [Cathode LED]
+                                         |
+                                  [220Ω Resistor]
+                                         |
+Raspberry Pi (Pin 14 - GND) ------------>|
 ```
 
 ![Raspberry Pi 4 GPIO Pinout](Raspberry-Pi-4-Pinout.png)
