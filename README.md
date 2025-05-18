@@ -101,7 +101,7 @@ Icon=/path/to/icon.png
 Path=/path/to/Face_Recognition
 Type=Application
 Terminal=false
-Categories=Utility;Application;
+Categories=Utility,Application;
 ```
 
 3. Grant execution permission:
