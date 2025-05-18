@@ -127,7 +127,7 @@ Raspberry Pi (Pin 8 - GPIO 14) ---> [Anode LED]
                                      |
                               [220Ω Resistor]
                                      |
-                      Raspberry Pi (Pin 14 - GND)
+Raspberry Pi (Pin 14 - GND) -------->|
 ```
 
 ![Raspberry Pi 4 GPIO Pinout](Raspberry-Pi-4-Pinout.png)
