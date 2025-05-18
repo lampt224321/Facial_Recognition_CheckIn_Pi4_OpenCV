@@ -53,7 +53,7 @@ python3 image_capture.py
 
 * Press `SPACE` to capture an image.
 * Press `Q` to quit.
-* Name each image file according to the person being captured (In the image_capture.py).
+* Name each image folder according to the person being captured (In the image_capture.py).
 * Capture **9–12 images** per person (more is better).
 
 ---
